@@ -81,9 +81,9 @@
 
 <div align="center">
 
-## 🆚 Why MUGEN AI?
+## Why MUGEN AI?
 
-![Why MUGEN AI Comparison](https://img.shields.io/badge/🆚-Comparison_Matrix-FF6B35?style=for-the-badge)
+![Why MUGEN AI Comparison](https://img.shields.io/badge/-Comparison_Matrix-FF6B35?style=for-the-badge)
 
 </div>
 
