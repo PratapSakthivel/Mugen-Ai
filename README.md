@@ -681,9 +681,9 @@ Or use the **📚 Rulebook Manager** tab in the admin dashboard.
 
 ## � Meet the Team
 
-![Team Badge](https://img.shields.io/badge/Team-SD--05-FF6B35?style=for-the-badge)
+![Team Badge](https://img.shields.io/badge/Team-Code_Badgers-FF6B35?style=for-the-badge)
 
-### 🌟 Built with Dedication by the SD-05 Team
+### 🌟 Built with Dedication by the Code Badgers Team
 
 *Four passionate developers revolutionizing enterprise asset management*
 
@@ -779,6 +779,6 @@ Or use the **📚 Rulebook Manager** tab in the admin dashboard.
 
 [![Star History](https://img.shields.io/github/stars/PratapSakthivel/Mugen-Ai?style=social)](https://github.com/PratapSakthivel/Mugen-Ai)
 
-<sub>Made with ❤️ by Team SD-05 | © 2024 MUGEN AI | All Rights Reserved</sub>
+<sub>Made with ❤️ by Team Code Badgers | © 2024 MUGEN AI | All Rights Reserved</sub>
 
 </div>
