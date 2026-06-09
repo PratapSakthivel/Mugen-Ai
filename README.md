@@ -677,21 +677,108 @@ Or use the **📚 Rulebook Manager** tab in the admin dashboard.
 
 ---
 
-## 👨‍💻 Meet the Team
+<div align="center">
+
+## � Meet the Team
+
+![Team Badge](https://img.shields.io/badge/Team-SD--05-FF6B35?style=for-the-badge)
+
+### 🌟 Built with Dedication by the SD-05 Team
+
+*Four passionate developers revolutionizing enterprise asset management*
+
+</div>
 
 <div align="center">
 
-Built with dedication by the **SD-05** team.
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Developer-V._Pranesh-4A90E2?style=for-the-badge" alt="Pranesh"/><br>
+<b>V. Pranesh</b><br>
+<sub>Full Stack Developer</sub><br><br>
+<a href="https://drive.google.com/file/d/1IjJbjL1S_Tk2pCws4osd8_7SZ0d985vq/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄-View_Resume-0088CC?style=flat-square" alt="Resume"/>
+</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Developer-S._Pratap-16A34A?style=for-the-badge" alt="Pratap"/><br>
+<b>S. Pratap</b><br>
+<sub>AI/ML Engineer</sub><br><br>
+<a href="https://drive.google.com/file/d/1BI-C1PoN5Yd99f4piTS--RJFIS-x-IBe/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄-View_Resume-0088CC?style=flat-square" alt="Resume"/>
+</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Developer-M._Subitha-7C3AED?style=for-the-badge" alt="Subitha"/><br>
+<b>M. Subitha</b><br>
+<sub>Backend Developer</sub><br><br>
+<a href="https://drive.google.com/file/d/1mCh6FU0gjZjZh3ofObzyfq0EhYshHPlx/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄-View_Resume-0088CC?style=flat-square" alt="Resume"/>
+</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Developer-V._Adhithyan-DC2626?style=for-the-badge" alt="Adhithyan"/><br>
+<b>V. Adhithyan</b><br>
+<sub>Security Specialist</sub><br><br>
+<a href="https://drive.google.com/file/d/14K-X-M5YYHaa3pAQAeQPJdpTiK5GQSdF/view?usp=sharing">
+<img src="https://img.shields.io/badge/📄-View_Resume-0088CC?style=flat-square" alt="Resume"/>
+</a>
+</td>
+</tr>
+</table>
 
-| Name | Resume |
-|:---:|:---:|
-| **V. Pranesh** | [📄 View Resume](https://drive.google.com/file/d/1IjJbjL1S_Tk2pCws4osd8_7SZ0d985vq/view?usp=sharing) |
-| **S. Pratap** | [📄 View Resume](https://drive.google.com/file/d/1BI-C1PoN5Yd99f4piTS--RJFIS-x-IBe/view?usp=sharing) |
-| **M. Subitha** | [📄 View Resume](https://drive.google.com/file/d/1mCh6FU0gjZjZh3ofObzyfq0EhYshHPlx/view?usp=sharing) |
-| **V .Adhithyan** | [📄 View Resume](https://drive.google.com/file/d/14K-X-M5YYHaa3pAQAeQPJdpTiK5GQSdF/view?usp=sharing) |
+</div>
 
-<br>
+---
 
-Built with ⚡ &nbsp;·&nbsp; Powered by [Groq](https://groq.com) &nbsp;·&nbsp; [LLaMA 3.3 · 70B](https://ai.meta.com/llama/) &nbsp;·&nbsp; [ChromaDB](https://trychroma.com) &nbsp;·&nbsp; [python-telegram-bot v20](https://python-telegram-bot.org)
+<div align="center">
+
+### 🛠️ Built With
+
+![Built with passion](https://img.shields.io/badge/Built_with-⚡_Passion-FF6B35?style=for-the-badge)
+
+<table>
+<tr>
+<td align="center">
+<a href="https://groq.com">
+<img src="https://img.shields.io/badge/Groq-AI_Inference-000000?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>
+</a>
+</td>
+<td align="center">
+<a href="https://ai.meta.com/llama/">
+<img src="https://img.shields.io/badge/LLaMA_3.3-70B-7C3AED?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA"/>
+</a>
+</td>
+<td align="center">
+<a href="https://trychroma.com">
+<img src="https://img.shields.io/badge/ChromaDB-Vector_Store-16A34A?style=for-the-badge" alt="ChromaDB"/>
+</a>
+</td>
+<td align="center">
+<a href="https://python-telegram-bot.org">
+<img src="https://img.shields.io/badge/PTB-v20-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="PTB"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 📫 Connect With Us
+
+[![GitHub](https://img.shields.io/badge/GitHub-SD--05-181717?style=for-the-badge&logo=github)](https://github.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team@sd05.dev)
+[![Documentation](https://img.shields.io/badge/Docs-Full_Documentation-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white)](./Documents)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star this repo if you find it useful!
+
+[![Star History](https://img.shields.io/github/stars/PratapSakthivel/Mugen-Ai?style=social)](https://github.com/PratapSakthivel/Mugen-Ai)
+
+<sub>Made with ❤️ by Team SD-05 | © 2024 MUGEN AI | All Rights Reserved</sub>
 
 </div>
